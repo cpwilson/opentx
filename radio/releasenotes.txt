@@ -1,5 +1,11 @@
 <h2>Version 2.1.2 / <set date></h2>
 
+[ARM Boards]
+<ul>
+<li>Several fixes to the SD card manager menu (<a href=https://github.com/opentx/opentx/issues/2623>#2623</a>)</li>
+</ul>
+
+
 [Sky9x / 9XR-PRO]
 <ul>
 <li>Sound was unintelligible</li>
